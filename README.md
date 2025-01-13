@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-cd public
-npx gltfjsx .\Rocket.gltf
+cd public <br>
+npx gltfjsx .\Rocket.gltf <br>
 convert export fn to export default fn
