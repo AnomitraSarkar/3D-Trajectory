@@ -8,6 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+# Loading and Editing GLTF models
+< check if gltf buffers has the bin file name correct >
+
 cd public <br>
 npx gltfjsx .\Rocket.gltf <br>
 convert export fn to export default fn
